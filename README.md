@@ -40,11 +40,12 @@ node index.js
 ---
 
 ### 🛠️ Funcionalidades del CRUD
-1. POST. Crear: Agrega una nueva canción. Ruta: /canciones
-2. GET. Leer: Muestra todas las canciones registradas. Ruta: /canciones
-3. PUT. Actualizar: Edita una canción existente por su id. Ruta: /canciones/:id
-4. DELETE. Eliminar: Borra una canción del repertorio por su id. Ruta: /canciones/:id
-**Todas las canciones se guardan y modifican en el archivo local repertorio.json.**
+1. **POST.** Crear: Agrega una nueva canción. Ruta: /canciones
+2. **GET.** Leer: Muestra todas las canciones registradas. Ruta: /canciones
+3. **PUT.** Actualizar: Edita una canción existente por su id. Ruta: /canciones/:id
+4. **DELETE.** Eliminar: Borra una canción del repertorio por su id. Ruta: /canciones/:id
+
+*Todas las canciones se guardan y modifican en el archivo local repertorio.json.*
 
 ---
 
